@@ -1,5 +1,5 @@
 # Tic-Tac-Toe
-Tic Tac Toe game using NFT's on avalanche, powered by Moralis SDK.
+Tic Tac Toe - live P2P game using NFT's minted on avalanche as characters, powered by Moralis SDK.
 
 cd- to Tic-Tac-Toe folder for code.
 
