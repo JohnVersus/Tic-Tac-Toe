@@ -1,9 +1,7 @@
-// const serverUrl = "https://yatkdyphudkw.bigmoralis.com:2053/server";
-// const appId = "MHufb6Kr8GTVARnYNbBLD3kBt9RHYJnf1lJywt3X";
 
 //test server
-const serverUrl = "https://dd9gb6eskdiv.usemoralis.com:2053/server";
-const appId = "nGY3M9DPvp124XRcWNSefVN9i2HYcWBi4XbDPYiR";
+const serverUrl = ""//add moralis server here ;
+const appId = ""; //add moralis appid here
 Moralis.start({ serverUrl, appId });
 //Moralis.enableWeb3()
 async () => {
