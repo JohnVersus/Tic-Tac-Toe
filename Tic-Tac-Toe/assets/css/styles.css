@@ -1,0 +1,32 @@
+.selectimg:hover {
+  border-width: 2px;
+  border-style: solid;
+  border-color: #e74747;
+}
+
+.selectimg:focus {
+  background-color: #d55252;
+}
+
+.selectimg:active {
+  background-color: #e98080;
+  padding: 8px;
+}
+
+.imagebg {
+  border-radius: 0px;
+  background: linear-gradient(145deg, #c6cfc9, #a7aea9);
+  box-shadow: 5px 5px 10px #a1a8a4, -5px -5px 10px #d1dad4;
+}
+
+.imagebg:hover {
+  border-radius: 0px;
+  background: #b9c1bc;
+  box-shadow: inset 5px 5px 10px #a1a8a4, inset -5px -5px 10px #d1dad4;
+}
+
+.imagebg:active {
+  border-radius: 0px;
+  background: #b9c1bc;
+  box-shadow: 5px 5px 10px #a1a8a4, -5px -5px 10px #d1dad4;
+}
