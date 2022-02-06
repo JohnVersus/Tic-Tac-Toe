@@ -1,3 +1,4 @@
+//logic credits: https://www.geeksforgeeks.org/simple-tic-tac-toe-game-using-javascript/
 // Function called whenever user tab on any box
 function checkwinner(a, b, c, d, e, f, g, h, i) {
   // Setting DOM to all boxes or input field
